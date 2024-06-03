@@ -1,0 +1,131 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmpresaTajAzure
+build_property.RootNamespace = EmpresaTajAzure
+build_property.ProjectDir = C:\Users\aleja\source\repos\EmpresaTajAzureTOAWS\EmpresaTajAzure\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\aleja\source\repos\EmpresaTajAzureTOAWS\EmpresaTajAzure
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Empresas/Empresas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcRW1wcmVzYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Empresas/EmpresasAlumnos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcRW1wcmVzYXNBbHVtbm9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Empresas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Empresas/InsertarEmpresa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcSW5zZXJ0YXJFbXByZXNhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Empresas/_EmpresasSeleccionadas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wcmVzYXNcX0VtcHJlc2FzU2VsZWNjaW9uYWRhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Entrevistas/InsertarEntrevistaAlumno.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmV2aXN0YXNcSW5zZXJ0YXJFbnRyZXZpc3RhQWx1bW5vLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Entrevistas/ListaEntrevistas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmV2aXN0YXNcTGlzdGFFbnRyZXZpc3Rhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/LogicApps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naWNBcHBzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Shared/_LayoutDividido.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREaXZpZGlkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Shared/_LayoutInicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRJbmljaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Shared/_LayoutNormal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXROb3JtYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Shared/_LayoutVacio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRWYWNpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Shared/_MenuUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51VXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Usuarios/AlumnosList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQWx1bW5vc0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Usuarios/Perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcUGVyZmlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Usuarios/PerfilUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcUGVyZmlsVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Usuarios/PerfilUsuarioAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcUGVyZmlsVXN1YXJpb0FkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Usuarios/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcUmVnaXN0cm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Usuarios/_AlumnosSeleccionados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcX0FsdW1ub3NTZWxlY2Npb25hZG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Usuarios/_Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcX0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/source/repos/EmpresaTajAzureTOAWS/EmpresaTajAzure/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ree5z3qvnf
